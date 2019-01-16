@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/thiagoalvesdesantana/Documents/Java/FramaworkPadrao/src/br/com/controller/base/dao/HibernateConnection.java</file>
+            <file>file:/Users/thiagoalvesdesantana/Documents/Java/FramaworkPadrao/src/br/com/controller/bo/CarroBO.java</file>
+            <file>file:/Users/thiagoalvesdesantana/Documents/Java/FramaworkPadrao/src/br/com/controller/base/bo/BaseBO.java</file>
+            <file>file:/Users/thiagoalvesdesantana/Documents/Java/FramaworkPadrao/src/br/com/view/Main.java</file>
+            <file>file:/Users/thiagoalvesdesantana/Documents/Java/FramaworkPadrao/src/br/com/controller/base/dao/IBaseDAO.java</file>
+            <file>file:/Users/thiagoalvesdesantana/Documents/Java/FramaworkPadrao/src/br/com/model/bean/CarroBean.java</file>
+            <file>file:/Users/thiagoalvesdesantana/Documents/Java/FramaworkPadrao/src/br/com/controller/dao/CarroDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
